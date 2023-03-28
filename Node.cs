@@ -10,7 +10,7 @@ namespace DancingLinks
         ColumnNode<T> columnNode;
         Node<T> left, right, up, down;
         T val;
-        int index;
+        int index; /*hello*/
 
         public Node(int index)
         {
